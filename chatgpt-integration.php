@@ -3,7 +3,8 @@
 Plugin Name: ChatGPT Integration
 Description: Integrates ChatGPT into the website.
 Version: 1.0
-Author: PowerHouse Team
+Author: M. Rizwan Aslam
+Author URL: linkedin.com/in/muhammad-rizwan-aslam
 */
 
 
